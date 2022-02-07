@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connections>
+  <connection>
+    <host>
+      10.0.0.101
+    </host>
+    <user>
+      AppDbManageUser
+    </user>
+    <passwd>
+      Pa$$w0rd
+    </passwd>
+    <shema>
+      Production
+    </shema>
+    <port>
+      5433
+    </port>
+    <database>
+      BiuroNaprawDB
+    </database>
+  </connection>
+  
+  <connection>
+    <host>
+      10.0.0.102
+    </host>
+    <user>
+      AppDbManageUser
+    </user>
+    <passwd>
+      Pa$$w0rd
+    </passwd>
+    <shema>
+      Release
+    </shema>
+    <port>
+      5433
+    </port>
+    <database>
+      BiuroNaprawDB
+    </database>
+  </connection>
+</connections>
